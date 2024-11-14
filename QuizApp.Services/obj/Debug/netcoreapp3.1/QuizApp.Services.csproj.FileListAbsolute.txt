@@ -1,0 +1,5 @@
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuizApp.Core/1.0.0": {
+        "dependencies": {
+          "QuizApp.Common": "1.0.0"
+        },
+        "runtime": {
+          "QuizApp.Core.dll": {}
+        }
+      },
+      "QuizApp.Common/1.0.0": {
+        "runtime": {
+          "QuizApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

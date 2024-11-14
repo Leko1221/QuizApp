@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApp", "QuizApp.csproj", "{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApp.Data", "..\QuizApp.Data\QuizApp.Data.csproj", "{CE40BA36-6517-461F-9F16-B87813018790}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApp.Core", "..\QuizApp.Core\QuizApp.Core.csproj", "{0D678C41-9F72-402A-8297-8771D312D754}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApp.Common", "..\QuizApp.Common\QuizApp.Common.csproj", "{3FCBC9D7-BF8E-4CB3-A140-E6F91DB0BF99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApp.EmailClient", "..\QuizApp.EmailClient\QuizApp.EmailClient.csproj", "{720456B6-A03F-46F1-816E-7ECE15E02D80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApp.Services", "..\QuizApp.Services\QuizApp.Services.csproj", "{D5109CD1-0198-4CFE-B870-9E0475F55E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp.Tests", "..\QuizApp.Tests\QuizApp.Tests.csproj", "{9A1AA6D0-08D0-404E-AEA5-1357807AC104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE40BA36-6517-461F-9F16-B87813018790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE40BA36-6517-461F-9F16-B87813018790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE40BA36-6517-461F-9F16-B87813018790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE40BA36-6517-461F-9F16-B87813018790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D678C41-9F72-402A-8297-8771D312D754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D678C41-9F72-402A-8297-8771D312D754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D678C41-9F72-402A-8297-8771D312D754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D678C41-9F72-402A-8297-8771D312D754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCBC9D7-BF8E-4CB3-A140-E6F91DB0BF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCBC9D7-BF8E-4CB3-A140-E6F91DB0BF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCBC9D7-BF8E-4CB3-A140-E6F91DB0BF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCBC9D7-BF8E-4CB3-A140-E6F91DB0BF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720456B6-A03F-46F1-816E-7ECE15E02D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720456B6-A03F-46F1-816E-7ECE15E02D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720456B6-A03F-46F1-816E-7ECE15E02D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720456B6-A03F-46F1-816E-7ECE15E02D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5109CD1-0198-4CFE-B870-9E0475F55E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5109CD1-0198-4CFE-B870-9E0475F55E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5109CD1-0198-4CFE-B870-9E0475F55E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5109CD1-0198-4CFE-B870-9E0475F55E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1AA6D0-08D0-404E-AEA5-1357807AC104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1AA6D0-08D0-404E-AEA5-1357807AC104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1AA6D0-08D0-404E-AEA5-1357807AC104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1AA6D0-08D0-404E-AEA5-1357807AC104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECF544B-281E-494A-B01F-9122B0AE8AEB}
+	EndGlobalSection
+EndGlobal

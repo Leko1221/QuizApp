@@ -1,0 +1,22 @@
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.Common\bin\Debug\net6.0\QuizApp.Common.deps.json
+C:\Users\Windows10\Desktop\QuizApp.Common\bin\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\QuizApp.Common\bin\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\refint\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\QuizApp.Common\obj\Debug\net6.0\ref\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\bin\Debug\net6.0\QuizApp.Common.deps.json
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\bin\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\bin\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\refint\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Common\obj\Debug\net6.0\ref\QuizApp.Common.dll

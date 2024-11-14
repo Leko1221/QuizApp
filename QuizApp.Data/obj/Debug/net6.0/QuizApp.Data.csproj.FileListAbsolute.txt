@@ -1,0 +1,38 @@
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.deps.json
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.runtimeconfig.json
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.pdb
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Core.dll
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\QuizApp.Data\bin\Debug\net6.0\QuizApp.Core.pdb
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp..6E8DA345.Up2Date
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\refint\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.pdb
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.genruntimeconfig.cache
+C:\Users\Windows10\Desktop\QuizApp.Data\obj\Debug\net6.0\ref\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.deps.json
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.runtimeconfig.json
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Data.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Core.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\bin\Debug\net6.0\QuizApp.Core.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp..6E8DA345.Up2Date
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\refint\QuizApp.Data.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\QuizApp.Data.genruntimeconfig.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.Data\obj\Debug\net6.0\ref\QuizApp.Data.dll

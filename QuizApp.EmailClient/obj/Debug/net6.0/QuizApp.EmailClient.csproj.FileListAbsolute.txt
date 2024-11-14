@@ -1,0 +1,30 @@
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.EmailClient.deps.json
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.EmailClient.pdb
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp..B3888D30.Up2Date
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\refint\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.pdb
+C:\Users\Windows10\Desktop\QuizApp.EmailClient\obj\Debug\net6.0\ref\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.EmailClient.deps.json
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.EmailClient.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.Common.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\bin\Debug\net6.0\QuizApp.Common.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp..B3888D30.Up2Date
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\refint\QuizApp.EmailClient.dll
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\QuizApp.EmailClient.pdb
+C:\Users\Windows10\Desktop\Quizapp(zajednicki folder)\QuizApp.EmailClient\obj\Debug\net6.0\ref\QuizApp.EmailClient.dll

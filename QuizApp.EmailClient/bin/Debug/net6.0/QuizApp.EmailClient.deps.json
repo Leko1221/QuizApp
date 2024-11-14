@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuizApp.EmailClient/1.0.0": {
+        "dependencies": {
+          "QuizApp.Common": "1.0.0"
+        },
+        "runtime": {
+          "QuizApp.EmailClient.dll": {}
+        }
+      },
+      "QuizApp.Common/1.0.0": {
+        "runtime": {
+          "QuizApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizApp.EmailClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

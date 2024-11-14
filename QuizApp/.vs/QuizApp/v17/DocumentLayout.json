@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5109CD1-0198-4CFE-B870-9E0475F55E1F}|..\\QuizApp.Services\\QuizApp.Services.csproj|c:\\users\\windows10\\desktop\\quizapp(zajednicki folder)\\quizapp.services\\services\\quizservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}|QuizApp.csproj|C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8A14E-4E09-4205-8445-D24F1E8CC7B0}|QuizApp.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5109CD1-0198-4CFE-B870-9E0475F55E1F}|..\\QuizApp.Services\\QuizApp.Services.csproj|c:\\users\\windows10\\desktop\\quizapp(zajednicki folder)\\quizapp.services\\abstractions\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5109CD1-0198-4CFE-B870-9E0475F55E1F}|..\\QuizApp.Services\\QuizApp.Services.csproj|c:\\users\\windows10\\desktop\\quizapp(zajednicki folder)\\quizapp.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE40BA36-6517-461F-9F16-B87813018790}|..\\QuizApp.Data\\QuizApp.Data.csproj|c:\\users\\windows10\\desktop\\quizapp(zajednicki folder)\\quizapp.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE40BA36-6517-461F-9F16-B87813018790}|..\\QuizApp.Data\\QuizApp.Data.csproj|c:\\users\\windows10\\desktop\\quizapp(zajednicki folder)\\quizapp.data\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE40BA36-6517-461F-9F16-B87813018790}|..\\QuizApp.Data\\QuizApp.Data.csproj|c:\\users\\windows10\\desktop\\quizapp(zajednicki folder)\\quizapp.data\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizServices.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Services\\Services\\QuizServices.cs",
+              "RelativeDocumentMoniker": "..\\QuizApp.Services\\Services\\QuizServices.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Services\\Services\\QuizServices.cs",
+              "RelativeToolTip": "..\\QuizApp.Services\\Services\\QuizServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:36:58.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Services\\Abstractions\\IQuizService.cs",
+              "RelativeDocumentMoniker": "..\\QuizApp.Services\\Abstractions\\IQuizService.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Services\\Abstractions\\IQuizService.cs",
+              "RelativeToolTip": "..\\QuizApp.Services\\Abstractions\\IQuizService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:55:36.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:05:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Data\\Repositories\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "..\\QuizApp.Data\\Repositories\\QuestionRepository.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Data\\Repositories\\QuestionRepository.cs",
+              "RelativeToolTip": "..\\QuizApp.Data\\Repositories\\QuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:45:35.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\QuizApp.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\QuizApp.Services\\Services\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:58:34.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Data\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\QuizApp.Data\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Data\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "..\\QuizApp.Data\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:47:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\QuizApp.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Windows10\\Desktop\\Quizapp(zajednicki folder)\\QuizApp.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\QuizApp.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:45:14.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
